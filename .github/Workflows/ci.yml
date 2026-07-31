@@ -22,6 +22,3 @@ jobs:
 
       - name: Simulate automated tests
         run: echo "Running automated tests..."
-
-      - name: Complete workflow
-        run: echo "Continuous Integration completed successfully."
